@@ -3,16 +3,13 @@
 🎓 Estudante do **PROA**  
 🚀 Sempre em busca de novos aprendizados  
 
+
+
+
+
 ## Sobre mim
-Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em busca de aprender coisas novas.  
+Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em busca de aprender coisas novas. 
 
-<div>
-
-
-</p>
-
-  
-</div>
 
 
 
@@ -23,7 +20,6 @@ Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em bu
 
 
 
-<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -46,8 +42,34 @@ Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 <br>
+<div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+     width="450"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=marciordalio&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+  width="300"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
+
+
+</p>
+
+  
+</div>
 
 
 <picture>
