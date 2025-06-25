@@ -50,7 +50,7 @@ Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em bu
     height="200" 
      width="450"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marciordalio&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=marciordalio&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
   />
 
 <img 
@@ -58,7 +58,7 @@ Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em bu
       alt="GitHub Stats" 
       height="180" 
   width="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
