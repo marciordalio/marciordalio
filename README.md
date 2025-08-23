@@ -8,7 +8,7 @@
 
 
 ## Sobre mim
-Atualmente estou cursando o PROA. Gosto muito de tecnologia e estou sempre em busca de aprender coisas novas. 
+Ex-PROANO. Gosto muito de tecnologia e estou sempre em busca de aprender coisas novas. 
 
 
 
