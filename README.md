@@ -2,7 +2,7 @@
 ![Opa tudo bem (4)](https://github.com/user-attachments/assets/e668a55e-fc4a-4d0e-b28c-f5ff027e061c)
 
 
-🎓 Estudante do **PROA**  
+ 
 🚀 Sempre em busca de novos aprendizados  
 
 
